@@ -1,6 +1,6 @@
 # Bonjour, moi c’est Erwan 👋
 
-## Technologies
+## 🧑‍💻 Technologies
 
 | Catégorie | Technologies |
 | --- | --- |
@@ -10,15 +10,11 @@
 | **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) |
 | **Outils et systèmes** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=macos&logoColor=F0F0F0&logoSize=auto) |
 
-## Projets
+## 🗃️ Projets
 
-### 🤖 DraftBot
-
----
-
-### 🌥️ VieillePieBot
-
----
-
-### ⏰ ChronoNeutron
+| Projet | Présentation |
+| --- | --- |
+| 🤖 **DraftBot** | TODO |
+| 🌥️ **VieillePieBot** | TODO |
+| ⏰ **ChronoNeutron** | TODO |
 
