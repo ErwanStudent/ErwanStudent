@@ -16,5 +16,5 @@
 | --- | --- |
 | 🤖 **DraftBot** | Bot Discord français multi-fonctions : niveaux, économie, modération, jeux, anniversaires, etc. Utilisé sur plus d'un million de communautés.<br/><br/>**Technologies :** `TypeScript`, `Docker Swarm`, `Nuxt`<br/>[🌐 Voir le site](https://draftbot.fr) |
 | 🌥️ **VieillePieBot** | Bot Discord privé générant un message journalier avec la météo et les actualités du monde.<br/><br/>**Technologies :** `TypeScript`, `discord.js`, `Docker`<br/>[💻 Voir le code](https://github.com/ErwanGit/VieillePieBot) |
-| ⏰ **ChronoNeutron** | Application locale permettant de chronométrer des triathlètes et de générer des classements en temps réel.<br/><br/>**Technologie :** `JavaFX` |
+| ⏰ **ChronoNeutron** | Application locale permettant de chronométrer des triathlètes et de générer des classements en temps réel.<br/>Réalisé dans le cadre d'un projet universitaire (SAE) en deuxième année de BUT Informatique.<br/><br/>**Technologie :** `JavaFX` |
 
